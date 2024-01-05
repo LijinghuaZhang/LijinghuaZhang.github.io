@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications"
-permalink: /publications/
+permalink: lijinghuazhang.github.io/publications/
 author_profile: true
 ---
 
