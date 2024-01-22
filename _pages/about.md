@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am currently a first-year PhD student in the statistics department at UCI. 
+I am a first year PhD student in the Department of xxx at xxx, advised by xxx. I obtained my Bachelor's degree in xxx from xxx.
 
 Research Highlights
 ======
